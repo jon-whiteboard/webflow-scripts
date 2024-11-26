@@ -1,0 +1,4 @@
+/* Replace .section with your class name */
+.section:has(.w-dyn-empty) {
+  display: none;
+}
